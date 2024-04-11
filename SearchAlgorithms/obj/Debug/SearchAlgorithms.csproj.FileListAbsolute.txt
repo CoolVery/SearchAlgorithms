@@ -1,0 +1,7 @@
+C:\Users\zepli\source\repos\SearchAlgorithms\SearchAlgorithms\bin\Debug\SearchAlgorithms.exe.config
+C:\Users\zepli\source\repos\SearchAlgorithms\SearchAlgorithms\bin\Debug\SearchAlgorithms.exe
+C:\Users\zepli\source\repos\SearchAlgorithms\SearchAlgorithms\bin\Debug\SearchAlgorithms.pdb
+C:\Users\zepli\source\repos\SearchAlgorithms\SearchAlgorithms\obj\Debug\SearchAlgorithms.csproj.AssemblyReference.cache
+C:\Users\zepli\source\repos\SearchAlgorithms\SearchAlgorithms\obj\Debug\SearchAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\zepli\source\repos\SearchAlgorithms\SearchAlgorithms\obj\Debug\SearchAlgorithms.exe
+C:\Users\zepli\source\repos\SearchAlgorithms\SearchAlgorithms\obj\Debug\SearchAlgorithms.pdb
