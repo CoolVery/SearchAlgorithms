@@ -12,6 +12,7 @@ namespace SearchAlgorithms
         {
             BinarySearch binarySearch = new BinarySearch(20, 1, 25);
             binarySearch.GetAnver(5);
+            Console.WriteLine("Add message");
         }
     }
 }
