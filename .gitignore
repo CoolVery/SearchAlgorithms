@@ -1,0 +1,6 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/SearchAlgorithmsThird/v17
+/SearchAlgorithms/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
